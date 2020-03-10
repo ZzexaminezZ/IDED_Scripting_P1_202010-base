@@ -45,6 +45,7 @@
     <Compile Include="Logic\EPropType.cs" />
     <Compile Include="Logic\EUnitClass.cs" />
     <Compile Include="Logic\Human.cs" />
+    <Compile Include="Logic\Position.cs" />
     <Compile Include="Logic\Prop.cs" />
     <Compile Include="Logic\Unit.cs" />
     <Compile Include="Program.cs" />
